@@ -1,0 +1,10 @@
+#
+# fips-devil
+#
+---
+exports:
+    header-dirs: 
+    - libjpeg
+    modules :
+        libjpeg: .
+
